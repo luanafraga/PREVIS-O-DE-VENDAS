@@ -28,7 +28,7 @@ A base de dados possui informações sobre:
 **Conclusões**
 
 
-Após o pré-processamento dos dados, foram criados 2 modelos de machine learning com a biblioteca Scikit Learn: Regressão Linear e Árvore de decisão. Esses modelos foram treinados e avaliados utilizando métricas de avaliação matemáticas e gráficas, para a escolha do melhor modelo, Foi então escolhida a **Árvore de decisão** por ter melhores métricas.
+Após o pré-processamento dos dados, foram criados 2 modelos de machine learning com a biblioteca Scikit Learn: Regressão Linear e Árvore de decisão. Esses modelos foram treinados e avaliados utilizando métricas de avaliação matemáticas e gráficas, para a escolha do melhor modelo. Foi então escolhida a **Árvore de decisão** por ter melhores métricas.
 
 Por fim, percebemos que o investimento em **TV** era o que possuía maior correlação com as vendas.
 Podemos perceber que em termos de importância para o modelo via Árvore de Decisão:
