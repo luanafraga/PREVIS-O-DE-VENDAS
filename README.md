@@ -15,8 +15,6 @@ O projeto foi desenvolvido utilizando linguagem **Python** no Jupyter Notebook. 
 
 O objetivo deste projeto é **criar um modelo de previsão de vendas** a partir do histórico de investimentos em marketing em diferentes canais: **TV, Jornal e Rádio**.
 
-TV, Jornal e Rádio estão em milhares de reais e Vendas estão em milhões
-
 **Dados**
 
 A base de dados possui informações sobre:
